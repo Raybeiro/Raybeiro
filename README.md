@@ -1,8 +1,8 @@
 
 ### Hello! Sou a Raíssa Ribeiro, desenvolvedora em constante aprendizado. 💀
 
-- Graduanda em Análise e Desenvolvimento de Sistemas (2º semestre)
-- Cursando formação Full Stack 
+- Graduanda em Análise e Desenvolvimento de Sistemas (2º semestre);
+- Cursando formação Frpnt End.
 
 ☯️
 
