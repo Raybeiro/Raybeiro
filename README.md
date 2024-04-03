@@ -6,7 +6,7 @@
 
 
 <div align="left">
-  <img src="https://i.pinimg.com/564x/a6/ea/c9/a6eac91fd42031f642ec4c8d6a7f5848.jpg" alt="Descrição da imagem" style="width: 15%; height: 15%; margin-right: 40px;">
+  <img src="https://i.pinimg.com/564x/a6/ea/c9/a6eac91fd42031f642ec4c8d6a7f5848.jpg" alt="Descrição da imagem" style="width: 25%; height: 25%; margin-right: 40px;">
 </div>
 
 #### Ferramentas e linguagens:
