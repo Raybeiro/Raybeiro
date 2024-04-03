@@ -22,3 +22,9 @@
 <b>Contato:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raybeiro/)
+
+<div align="end">
+  <img src="https://i.pinimg.com/564x/a6/ea/c9/a6eac91fd42031f642ec4c8d6a7f5848.jpg" alt="Descrição da imagem" style="width: 20%; height: 20%;">
+</div>
+
+
