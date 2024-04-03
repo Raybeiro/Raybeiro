@@ -6,7 +6,7 @@
         <p>- Graduanda em Análise e Desenvolvimento de Sistemas;</p> 
         <p>- Cursando formação Full Stack.</p>
     </div>
-    <img src="https://i.pinimg.com/564x/a6/ea/c9/a6eac91fd42031f642ec4c8d6a7f5848.jpg" alt="Picture w/a cat" style="width: 15%; height: 15%;" align="right">
+    <img src="https://i.pinimg.com/564x/a6/ea/c9/a6eac91fd42031f642ec4c8d6a7f5848.jpg" alt="Picture w/a cat" style="width: 20%; height: 35%;" align="right">
 </div>
 
 #### Ferramentas e linguagens:
