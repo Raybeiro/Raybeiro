@@ -1,15 +1,18 @@
 
 ### Hello! Sou a Raíssa Ribeiro, desenvolvedora em constante aprendizado. ☯️
+<img src="https://i.pinimg.com/564x/a6/ea/c9/a6eac91fd42031f642ec4c8d6a7f5848.jpg"  style="width: 15%; height: 30%; " align="right">
 
-  <div>
-    <div style="display: flex; flex-direction: column;">
-        <p>- Graduanda em Análise e Desenvolvimento de Sistemas;</p> 
-        <p>- Cursando formação Full Stack.</p>
-    </div>
-    <img src="https://i.pinimg.com/564x/a6/ea/c9/a6eac91fd42031f642ec4c8d6a7f5848.jpg" alt="Picture w/a cat" style="width: 20%; height: 35%;" align="right">
-</div>
+<p align="left"> 
+ - Graduanda em Análise e Desenvolvimento de Sistemas; </p>
+ <p align="left"> 
+ - Cursando formação Full Stack.
+</p>
+<p align="left"> 
+ Iniciei essa jornada no campo de desenvolvimento ao realizar uma transição de carreira, motivada pela minha paixão por tecnologia e inovação. Com determinação e autodisciplina diante das mudanças, busco oportunidade neste campo para aprimorar e atualizar constantemente meus conhecimentos. Minha habilidade autodidata me permite aprender diversas tecnologias.
+</p>
 
-#### Ferramentas e linguagens:
+##
+<b>Ferramentas e linguagens:</h3>
 
 <div>
 <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -20,7 +23,7 @@
 </div>
 
 ##
-<b>Contato:
+Contato:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raybeiro/)
 
