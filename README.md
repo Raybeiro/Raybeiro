@@ -1,6 +1,6 @@
 
 ### Hello! Sou a Raíssa Ribeiro, desenvolvedora em constante aprendizado. ☯️
-<img src="https://i.pinimg.com/564x/a6/ea/c9/a6eac91fd42031f642ec4c8d6a7f5848.jpg"  style="width: 25%; height: 30%; " align="right">
+<img src="https://i.pinimg.com/564x/a6/ea/c9/a6eac91fd42031f642ec4c8d6a7f5848.jpg"  style="width: 20%; height: 30%; " align="right">
 
 <p align="left"> 
  - Graduanda em Análise e Desenvolvimento de Sistemas; </p>
