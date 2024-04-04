@@ -1,6 +1,6 @@
 
 ### Hello! Sou a Raíssa Ribeiro, desenvolvedora em constante aprendizado. ☯️
-<img src="https://i.pinimg.com/564x/a6/ea/c9/a6eac91fd42031f642ec4c8d6a7f5848.jpg"  style="width: 15%; height: 30%; " align="right">
+<img src="https://i.pinimg.com/564x/a6/ea/c9/a6eac91fd42031f642ec4c8d6a7f5848.jpg"  style="width: 25%; height: 30%; " align="right">
 
 <p align="left"> 
  - Graduanda em Análise e Desenvolvimento de Sistemas; </p>
@@ -8,7 +8,8 @@
  - Cursando formação Full Stack.
 </p>
 <p align="left"> 
- Iniciei essa jornada no campo de desenvolvimento ao realizar uma transição de carreira, motivada pela minha paixão por tecnologia e inovação. Com determinação e autodisciplina diante das mudanças, busco oportunidade neste campo para aprimorar e atualizar constantemente meus conhecimentos. Minha habilidade autodidata me permite aprender diversas tecnologias.
+ Iniciei essa jornada no campo de desenvolvimento ao realizar uma transição de carreira, motivada pela minha paixão por tecnologia e inovação.</p>
+<p align="left"> Com determinação e autodisciplina diante das mudanças, busco oportunidade neste campo para aprimorar e atualizar constantemente meus conhecimentos. Minha habilidade autodidata me permite aprender diversas tecnologias.
 </p>
 
 ##
