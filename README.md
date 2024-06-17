@@ -8,7 +8,7 @@
  - Cursando formação Full Stack.
 </p>
 <p align="left"> 
- Iniciei essa jornada no campo de desenvolvimento ao realizar uma transição de carreira, motivada pela minha paixão por tecnologia e inovação.</p>
+ Iniciei essa jornada no campo de tecnologia motivada pela minha paixão por inovação.</p>
 <p align="left"> Com determinação e autodisciplina diante das mudanças, busco oportunidade neste campo para aprimorar e atualizar constantemente meus conhecimentos. Minha habilidade autodidata me permite aprender diversas tecnologias.
 </p>
 
