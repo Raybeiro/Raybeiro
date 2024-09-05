@@ -9,7 +9,7 @@
 </p>
 <p align="left"> 
  Iniciei essa jornada no campo de tecnologia motivada pela minha paixão por inovação.</p>
-<p align="left"> Com determinação e autodisciplina diante das mudanças, busco oportunidade neste campo para aprimorar e atualizar constantemente meus conhecimentos. Minha habilidade autodidata me permite aprender diversas tecnologias.
+<p align="left"> Com determinação e autodisciplina diante das mudanças, busco aprimorar e atualizar constantemente meus conhecimentos. Minha habilidade autodidata me permite aprender diversas tecnologias.
 </p>
 
 ##
